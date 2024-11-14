@@ -1,0 +1,11 @@
+Region,Product,QuantitySold,Price
+North,Product A,10,50
+South,Product B,5,30
+East,Product A,7,40
+West,Product C,3,20
+North,Product B,12,35
+South,Product A,8,45
+East,Product B,6,30
+West,Product A,9,55
+North,Product C,15,25
+South,Product C,4,40
